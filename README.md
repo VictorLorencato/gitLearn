@@ -2,4 +2,6 @@ So, this may be my first repository to share some basic things I've learned so f
 
 Successfully learned how to push to github!
 
-Successfully how to change (or remove) files and push them upstream!
+Successfully learned how to change (or remove) files and push them upstream!
+
+Successfully learned how to use Vim editor for Windows!
